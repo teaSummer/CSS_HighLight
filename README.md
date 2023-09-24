@@ -27,9 +27,9 @@ https://www.123pan.com/s/vhjA-q1YsH.html
 
 推荐使用 `黑暗模式`：
 
-[图1]()、[图2]()
+[图1](https://img1.imgtp.com/2023/09/24/GfRqDviy.jpg)、[图2](https://img1.imgtp.com/2023/09/24/sTx601tz.jpg)
 
-文件压缩后，同样好用：[图3]()
+文件压缩后，同样好用：[图3](https://img1.imgtp.com/2023/09/24/CHopeDrK.jpg)
 
 (都是截图，可能稍有些模糊)
 
