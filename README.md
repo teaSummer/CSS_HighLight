@@ -1,7 +1,10 @@
 # CSS 高亮增强
+
 您可以在`MT管理器`上享受编写`CSS`啦！
 
 只需要使用这款近乎完美的`CSS`高亮！
+
+我渴望它更加完美，多多[提议](https://github.com/teaSummer/CSS_HighLight/issues)吧！
 
 ## 如何使用高亮？
 
@@ -43,6 +46,6 @@ https://www.123pan.com/s/vhjA-q1YsH.html
 
 最新版 日期：2023.9.24
 
-*感谢使用！* 有问题记得反馈喔！
+*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues)喔！
 
 希望您能喜欢！
