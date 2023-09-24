@@ -1,2 +1,2 @@
-# CSS_HighLight
-CSS高亮增强【MT管理器】
+# CSS 文件高亮增强
+您可以在`MT管理器`上体验`完美CSS`了！
