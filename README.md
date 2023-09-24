@@ -11,7 +11,7 @@
 
 或通过 `123云盘` 链接进行下载：
 
-https://www.123pan.com/s/vhjA-ndYsH.html
+https://www.123pan.com/s/vhjA-51YsH.html
 
 ### 使用
 
@@ -19,7 +19,7 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 
 单击这个文件，然后选择 `安装`！
 
-然后就可以打开 `.mcfunction` 文件啦！
+然后就可以打开 `.css` 文件啦！
 
 这将会让它变得丰富多彩！
 
