@@ -14,7 +14,7 @@
 
 或通过 `123云盘` 链接进行下载：
 
-https://www.123pan.com/s/vhjA-q1YsH.html
+https://www.123pan.com/s/vhjA-l4YsH.html
 
 ### 使用
 
@@ -42,9 +42,9 @@ https://www.123pan.com/s/vhjA-q1YsH.html
 
 ## 最后
 
-最新版 版本号：1.0.0
+最新版 版本号：1.1.0
 
-最新版 日期：2023.9.24
+最新版 日期：2023.9.25
 
 *感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues)喔！
 
