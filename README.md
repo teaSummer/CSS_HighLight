@@ -4,6 +4,8 @@
 
 只需要使用这款近乎完美的`CSS`高亮！
 
+😳 准确、简单、实用！
+
 希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/CSS_HighLight/issues/new)吧！
 
 ## 如何使用高亮？
@@ -49,3 +51,5 @@
 *感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues/new)喔！
 
 希望您能喜欢！
+
+感谢每一位使用者、聆听者、贡献者！
