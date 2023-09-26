@@ -16,7 +16,7 @@
 
 或通过 `123云盘` 链接进行下载：
 
-[https://www.123pan.com/s/vhjA-oxYsH.html](https://www.123pan.com/s/vhjA-oxYsH.html)（需解压提取`.mtsx`文件）
+[https://www.123pan.com/s/vhjA-pxYsH.html](https://www.123pan.com/s/vhjA-pxYsH.html)（需解压提取`.mtsx`文件）
 
 ### 使用
 
@@ -44,7 +44,7 @@
 
 ## 最后
 
-最新版 版本号：1.2.1
+最新版 版本号：1.2.2
 
 最新版 日期：2023.9.26
 
