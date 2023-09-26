@@ -4,7 +4,7 @@
 
 只需要使用这款近乎完美的`CSS`高亮！
 
-希望它将更加完美，多多[提议](https://github.com/teaSummer/CSS_HighLight/issues)吧！
+希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/CSS_HighLight/issues)吧！
 
 ## 如何使用高亮？
 
