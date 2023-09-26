@@ -14,7 +14,7 @@
 
 或通过 `123云盘` 链接进行下载：
 
-https://www.123pan.com/s/vhjA-q4YsH.html
+https://www.123pan.com/s/vhjA-q4YsH.html（需解压使用）
 
 ### 使用
 
