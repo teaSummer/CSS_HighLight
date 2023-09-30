@@ -1,0 +1,49 @@
+{
+
+/**  v1.2.2 ~ v1.4.0  **/
+/* 【只读】 */
+
+
+/*  修复  */
+  /*  < 属性 >  */
+ (backdrop-filte => backdrop-filter)
+  ....
+
+
+/*  更改  */
+  /*  < 属性值 >  */
+ : auto |: none |: normal;  /* 更改颜色 */
+  ....
+
+
+/*  新增  */
+  /*  < 规则 >  */
+ @color-profile | @container | @font-palette-values
+  /*  < 元素 >  */
+ svg{} | image{} | xmp{} | shadow{} | slot{} | marquee{} | math{} | bgsound{} | rtc{} | data{} | noembed{} | portal{} | nobr{} | content{} | menuitem{} | plaintext{} | rb{}
+  /*  标识符 (关键字)  */
+ ( in )
+  /*  < 属性 >  与  < 属性值 >  */
+ writing-mode: horizontal-tb | lr | lr-tb | rl | sideways-lr | sideways-rl | tb | tb-rl | vertical-lr | vertical-rl;
+  /*  < 属性 >  */
+ stroke-dasharray |; stroke-linecap |; stroke-width |; stroke |; fill |; cx |; cy |; r:  ;
+ -moz-float-edge |; -moz-force-broken-image-icon |; -moz-image-region |; -moz-orient |; -moz-user-focus |; -moz-user-input |; -webkit-border-before |; -webkit-box-reflect |; -webkit-line-clamp |; -webkit-mask-attachment |; -webkit-mask-box-image |; -webkit-mask-composite |; -webkit-mask-position-x |; -webkit-mask-position-y |; -webkit-mask-repeat-x |; -webkit-mask-repeat-y |; -webkit-overflow-scrolling |; -webkit-tap-highlight-color |; -webkit-text-fill-color |; -webkit-text-security |; -webkit-text-stroke |; -webkit-text-stroke-color |; -webkit-text-stroke-width |; -webkit-touch-callout |; accent-color |; align-tracks |; animation-composition |; animation-range |; animation-range-end |; animation-range-start |; animation-timeline |; border-end-end-radius |; border-end-start-radius |; border-start-end-radius |; border-start-start-radius |; color-scheme |; contain-intrinsic-block-size |; contain-intrinsic-height |; contain-intrinsic-inline-size |; contain-intrinsic-size |; contain-intrinsic-width |; container |; container-name |; container-type |; content |; counter-set |; font-optical-sizing |; font-palette |; font-smooth |; font-synthesis-position |; font-synthesis-small-caps |; font-synthesis-style |; font-synthesis-weight |; font-variant-alternates |; font-variant-emoji |; forced-color-adjust |; hyphenate-limit-chars |; initial-letter |; initial-letter-align |; inset |; inset-block |; inset-block-end |; inset-block-start |; inset-inline |; inset-inline-end |; inset-inline-start |; justify-items |; justify-self |; justify-tracks |; line-height-step |; margin-trim |; masonry-auto-flow |; math-depth |; math-shift |; math-style |; offset |; offset-anchor |; offset-distance |; offset-path |; offset-position |; offset-rotate |; overflow-anchor |; overflow-clip-margin |; overscroll-behavior |; overscroll-behavior-block |; overscroll-behavior-inline |; overscroll-behavior-x |; overscroll-behavior-y |; paint-order |; place-content |; place-items |; place-self |; print-color-adjust |; rotate |; scale |; scroll-behavior |; scroll-timeline |; scroll-timeline-axis |; scroll-timeline-name |; text-decoration-thickness |; text-size-adjust |; text-underline-offset |; timeline-scope |; translate |; user-modify |; view-timeline |; view-timeline-axis |; view-timeline-inset |; view-timeline-name |; view-transition-name |; white-space-collapse:  ;
+  /*  < 属性值 >  */
+ : available |: fill |: fill-available |: fit-content |: max-content |: min-content;
+ : ew-resize |: ns-resize;
+ : remove |: freeze;
+ : currentColor;
+ : grid;
+ : RebeccaPurple;
+ : AccentColor |: AccentColorText |: ActiveBorder |: ActiveCaption |: ActiveText |: AppWorkspace |: Background |: ButtonBorder |: ButtonFace |: ButtonHighlight |: ButtonShadow |: ButtonText |: Canvas |: CanvasText |: CaptionText |: Field |: FieldText |: GrayText |: Highlight |: HighlightText |: InactiveBorder |: InactiveCaption |: InactiveCaptionText |: InfoBackground |: InfoText |: LinkText |: Mark |: MarkText |: Menu |: MenuText |: Scrollbar |: ThreeDDarkShadow |: ThreeDFace |: ThreeDHighlight |: ThreeDLightShadow |: ThreeDShadow |: VisitedText |: Window |: WindowFrame |: WindowText;
+  /*  < 函数 >  */
+ : color() |: opacity() |: hwb() |: color-mix() |: lab() |: lch() |: oklab() |: oklch() |: color-contrast();
+ : blur() |: brightness() |: contrast() |: drop-shadow() |: grayscale() |: hue-rotate() |: invert() |: saturate() |: sepia();
+ : -moz-image-rect() |: abs() |: acos() |: asin() |: atan() |: atan2() |: clamp() |: cos() |: counters() |: cross-fade() |: element() |: env() |: exp() |: fit-content() |: hypot() |: log() |: mod() |: path() |: pow() |: ray() |: rem() |: round() |: sign() |: sin() |: sqrt() |: symbols() |: tan();
+  /*  < 伪元素 >  */
+ ::-moz-color-swatch | ::-moz-focus-inner | ::-moz-list-bullet | ::-moz-list-number | ::-moz-page | ::-moz-page-sequence | ::-moz-progress-bar | ::-moz-range-progress | ::-moz-range-thumb | ::-moz-range-track | ::-moz-scrolled-page-sequence | ::-webkit-inner-spin-button | ::-webkit-meter-bar | ::-webkit-meter-even-less-good-value | ::-webkit-meter-inner-element | ::-webkit-meter-optimum-value | ::-webkit-meter-suboptimum-value | ::-webkit-outer-spin-button | ::-webkit-progress-bar | ::-webkit-progress-inner-element | ::-webkit-progress-value | ::-webkit-scrollbar | ::-webkit-search-cancel-button | ::-webkit-search-results-button | ::-webkit-slider-runnable-track | ::-webkit-slider-thumb | ::file-selector-button | ::highlight | ::target-text | ::view-transition | ::view-transition-group | ::view-transition-image-pair | ::view-transition-new | ::view-transition-old
+  /*  < 伪类 >  */
+ :-moz-broken | :-moz-drag-over | :-moz-first-node | :-moz-handler-blocked | :-moz-handler-crashed | :-moz-handler-disabled | :-moz-last-node | :-moz-loading | :-moz-locale-dir | :-moz-only-whitespace | :-moz-submit-invalid | :-moz-suppressed | :-moz-user-disabled | :-moz-window-inactive | :autofill | :buffering | :modal | :muted | :paused | :picture-in-picture | :playing | :popover-open | :root | :seeking | :stalled | :user-valid | :volume-locked
+  ....
+
+}
