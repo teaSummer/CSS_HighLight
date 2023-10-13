@@ -1,6 +1,6 @@
 {
-    // 版本：1.4.3
-    // 日期：2023.10.12
+    // 版本：1.4.4
+    // 日期：2023.10.13
     // 允许的文件后缀名：css
     // 作者：3143279820 (QQ)
     name: ["CSS (Plus) [R]", ".css"]
@@ -149,8 +149,8 @@
               {match: /\b(-(webkit|moz|ms|o|khtml|xv)-)([\w-]*)/, 1: "alphaL", 3: "label"}
               {match: /\b(-(webkit|moz|ms|khtml|xv))(?=[^\w-])/, 1: "alphaL", 3: "label"}
               {match: /((?<=([{;\s-]transition(-property)?)):\s*|,\s*)(-(webkit|moz|ms|o|khtml|xv)-)([\w-]+)/, 4: "alphaB", 6: "boolean"}
-              {match: /(?<=(([(,)])|[{\s]))\s*(url)\(([\s\S]+?)\)/, 3: "class2", 4: "meta"}
-              {match: /:\s*(url)\(([\s\S]+?)\)/, 1: "class2", 2: "meta"}
+              {match: /(?<=(([(,)])|[{\s]))\s*(url)\(([\s\S]*?)\)/, 3: "class2", 4: "meta"}
+              {match: /:\s*(url)\(([\s\S]*?)\)/, 1: "class2", 2: "meta"}
               {match: /:\s*(url)(?=\()/, 1: "class2"}
               {match: /(?<=(([(,)])|[{\s]))\s*(/ + keywordsToRegex("-moz-image-rect abs acos asin atan atan2 attr blur brightness calc clamp color color-contrast color-mix conic-gradient contrast cos counter counters cross-fade cubic-bezier drop-shadow element env exp fit-content grayscale hsl hsla hue-rotate hwb hypot invert lab lch linear-gradient log max min minmax mod oklab oklch opacity path pow radial-gradient ray rem repeat repeating-conic-gradient repeating-linear-gradient repeating-radial-gradient rgb rgba round saturate sepia sign sin sqrt symbols tan var") + /)$/, 0: "class2"}
               {match: /:\s*(/ + keywordsToRegex("-moz-image-rect abs acos asin atan atan2 attr blur brightness calc clamp color color-contrast color-mix conic-gradient contrast cos counter counters cross-fade cubic-bezier drop-shadow element env exp fit-content grayscale hsl hsla hue-rotate hwb hypot invert lab lch linear-gradient log max min minmax mod oklab oklch opacity path pow radial-gradient ray rem repeat repeating-conic-gradient repeating-linear-gradient repeating-radial-gradient rgb rgba round saturate sepia sign sin sqrt symbols tan var") + /)$/, 1: "class2"}
@@ -212,8 +212,8 @@
           {match: /\b(-(webkit|moz|ms|o|khtml|xv)-)([\w-]*)/, 1: "alphaL", 3: "label"}
           {match: /\b(-(webkit|moz|ms|khtml|xv))(?=[^\w-])/, 1: "alphaL", 3: "label"}
           {match: /((?<=([{;\s-]transition(-property)?)):\s*|,\s*)(-(webkit|moz|ms|o|khtml|xv)-)([\w-]+)/, 4: "alphaB", 6: "boolean"}
-          {match: /(?<=(([(,)])|[{\s]))\s*(url)\(([\s\S]+?)\)/, 3: "class2", 4: "meta"}
-          {match: /:\s*(url)\(([\s\S]+?)\)/, 1: "class2", 2: "meta"}
+          {match: /(?<=(([(,)])|[{\s]))\s*(url)\(([\s\S]*?)\)/, 3: "class2", 4: "meta"}
+          {match: /:\s*(url)\(([\s\S]*?)\)/, 1: "class2", 2: "meta"}
           {match: /:\s*(url)(?=\()/, 1: "class2"}
           {match: /(?<=(([(,)])|[{\s]))\s*(/ + keywordsToRegex("-moz-image-rect abs acos asin atan atan2 attr blur brightness calc clamp color color-contrast color-mix conic-gradient contrast cos counter counters cross-fade cubic-bezier drop-shadow element env exp fit-content grayscale hsl hsla hue-rotate hwb hypot invert lab lch linear-gradient log max min minmax mod oklab oklch opacity path pow radial-gradient ray rem repeat repeating-conic-gradient repeating-linear-gradient repeating-radial-gradient rgb rgba round saturate sepia sign sin sqrt symbols tan var") + /)$/, 0: "class2"}
           {match: /:\s*(/ + keywordsToRegex("-moz-image-rect abs acos asin atan atan2 attr blur brightness calc clamp color color-contrast color-mix conic-gradient contrast cos counter counters cross-fade cubic-bezier drop-shadow element env exp fit-content grayscale hsl hsla hue-rotate hwb hypot invert lab lch linear-gradient log max min minmax mod oklab oklch opacity path pow radial-gradient ray rem repeat repeating-conic-gradient repeating-linear-gradient repeating-radial-gradient rgb rgba round saturate sepia sign sin sqrt symbols tan var") + /)$/, 1: "class2"}
