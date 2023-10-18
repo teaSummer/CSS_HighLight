@@ -16,7 +16,7 @@
 
 或通过 `123云盘` 链接进行下载：
 
-[https://www.123pan.com/s/vhjA-RwYsH.html](https://www.123pan.com/s/vhjA-RwYsH.html)（需解压提取`.mtsx`文件）
+[https://www.123pan.com/s/vhjA-jYYsH.html](https://www.123pan.com/s/vhjA-jYYsH.html)（需解压提取`.mtsx`文件）
 
 ### 使用
 
@@ -54,9 +54,9 @@ A1：为了自身兼容性更强而高亮，但几乎用不到，早已被抛弃
 
 ## 最后
 
-最新版 版本号：1.4.4
+最新版 版本号：1.4.5
 
-最新版 日期：2023.10.13
+最新版 日期：2023.10.19
 
 *感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues/new)喔！
 
