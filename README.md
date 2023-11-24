@@ -32,7 +32,7 @@
 
 推荐使用 `黑暗模式`：
 
-[图1](https://cccimg.com/view.php/444c70fb6c6b049a8e2afab8735322f9.jpg)、[图2](https://cccimg.com/view.php/475239f4e7ba50ec00beff00d8ed6c11.jpg)
+ [图1](https://cccimg.com/view.php/444c70fb6c6b049a8e2afab8735322f9.jpg)、[图2](https://cccimg.com/view.php/475239f4e7ba50ec00beff00d8ed6c11.jpg)
 
 文件压缩后，同样好用：[图3](https://cccimg.com/view.php/492c9e54501e93470de3e0478fb72427.jpg)
 
