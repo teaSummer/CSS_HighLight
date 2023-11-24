@@ -6,7 +6,7 @@
 
 😳 准确、简单、实用！
 
-希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/CSS_HighLight/issues/new)吧！
+希望它更加完美？[提提宝贵建议](https://githubfast.com/teaSummer/CSS_HighLight/issues/new)吧！
 
 ## 如何使用高亮？
 
@@ -30,11 +30,11 @@
 
 ### 效果示例图
 
-推荐使用 `黑暗模式`：（图片重新准备中）
+推荐使用 `黑暗模式`：
 
-[图1]()、[图2]()
+[图1](https://cccimg.com/view.php/444c70fb6c6b049a8e2afab8735322f9.jpg)、[图2](https://cccimg.com/view.php/475239f4e7ba50ec00beff00d8ed6c11.jpg)
 
-文件压缩后，同样好用：[图3]()
+文件压缩后，同样好用：[图3](https://cccimg.com/view.php/492c9e54501e93470de3e0478fb72427.jpg)
 
 ( 都是截图，可能稍有些模糊 )
 
@@ -60,7 +60,7 @@ A1：为了自身兼容性更强而高亮，但几乎用不到，早已被抛弃
 
 最新版 日期：2023.10.23
 
-*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues/new)喔！
+*感谢使用！* 有问题记得[反馈](https://githubfast.com/teaSummer/CSS_HighLight/issues/new)喔！
 
 希望您能喜欢！
 
