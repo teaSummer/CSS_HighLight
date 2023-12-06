@@ -6,13 +6,21 @@
 
 😳 准确、简单、实用！
 
+<<<<<<< HEAD
 希望它更加完美？[提提宝贵建议](https://githubfast.com/teaSummer/CSS_HighLight/issues/new)吧！
+=======
+希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/CSS_HighLight/issues/new)吧！
+>>>>>>> 1d3a6e8 (update)
 
 ## 如何使用高亮？
 
 ### 下载
 
+<<<<<<< HEAD
 从仓库上下载 `.mtsx` 文件，
+=======
+从[仓库上](https://github.com/teaSummer/CSS_HighLight/tree/main/下载)下载 `.mtsx` 文件，
+>>>>>>> 1d3a6e8 (update)
 
 或通过 `123云盘` 链接进行下载：
 
@@ -60,7 +68,11 @@ A1：为了自身兼容性更强而高亮，但几乎用不到，早已被抛弃
 
 最新版 日期：2023.10.23
 
+<<<<<<< HEAD
 *感谢使用！* 有问题记得[反馈](https://githubfast.com/teaSummer/CSS_HighLight/issues/new)喔！
+=======
+*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/CSS_HighLight/issues/new)喔！
+>>>>>>> 1d3a6e8 (update)
 
 希望您能喜欢！
 
