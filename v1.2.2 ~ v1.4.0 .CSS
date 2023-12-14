@@ -17,7 +17,7 @@
 
 
 /*  新增  */
-  /*  < 规则 >  */
+  /*  < @规则 >  */
  @color-profile | @container | @font-palette-values
   /*  < 元素 >  */
  svg{} | image{} | xmp{} | shadow{} | slot{} | marquee{} | math{} | bgsound{} | rtc{} | data{} | noembed{} | portal{} | nobr{} | content{} | menuitem{} | plaintext{} | rb{}
